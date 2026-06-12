@@ -1,0 +1,8 @@
+{
+    "alicoin":{
+        "url":{
+            "staging":"https://uat.alicoin.cc/",
+            "prod":"https://alicoin.online"
+        }
+    }
+}
