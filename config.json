@@ -4,5 +4,11 @@
             "staging":"https://uat.alicoin.cc/",
             "prod":"https://alicoin.online"
         }
+    },
+    "rajubet":{
+    "url":{
+         "staging":"https://uatfe.bmax88.com/",
+            "prod":"https://rajubet.com"
+    }
     }
 }
