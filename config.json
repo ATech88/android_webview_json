@@ -10,5 +10,11 @@
             "staging": "https://uatfe.bmax88.com/",
             "prod": "https://rajubet.com"
         }
+    },
+    "mg88": {
+        "url": {
+            "staging": "https://mg88b.com/",
+            "prod": "https://mg88b.com/"
+        }
     }
 }
