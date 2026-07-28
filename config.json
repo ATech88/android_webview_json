@@ -16,5 +16,12 @@
             "staging": "https://mg88b.com/",
             "prod": "https://mg88b.com/"
         }
+    },
+    "baji568": {
+        "url": {
+            "staging": "https://baji568.com/",
+            "prod": "https://baji568.com/"
+        },
+        "version": "1"
     }
 }
