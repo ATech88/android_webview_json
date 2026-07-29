@@ -23,5 +23,12 @@
             "prod": "https://baji568.com/"
         },
         "version": 1
+    },
+    "moso888": {
+        "url": {
+            "staging": "https://www.moso888.com/",
+            "prod": "https://www.moso888.com/"
+        },
+        "version": 1
     }
 }
